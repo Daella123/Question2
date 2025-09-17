@@ -24,4 +24,7 @@ public class Triangle {
     public void setHeight(double height) {
         this.height = height;
     }
+    public double calculateArea() {
+        return 0.5 * base * height;
+    }
 }
