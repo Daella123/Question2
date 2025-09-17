@@ -7,5 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 Circle circle= new Circle(7);
+Rectangle rectangle= new Rectangle(10,5);
+
     }
 }
