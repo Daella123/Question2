@@ -11,6 +11,8 @@ Rectangle rectangle= new Rectangle(10,5);
 Triangle triangle=new Triangle(4,7);
 
         System.out.println("circle area: "+circle.calculateArea());
+        System.out.println("circle area: "+rectangle.calculateArea());
+        System.out.println("circle area: "+triangle.calculateArea());
 
     }
 }
