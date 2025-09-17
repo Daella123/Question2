@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
 Circle circle= new Circle(7);
 Rectangle rectangle= new Rectangle(10,5);
+Triangle triangle=new Triangle(3,8);
 
     }
 }
