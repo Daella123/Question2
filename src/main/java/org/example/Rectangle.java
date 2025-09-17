@@ -24,4 +24,7 @@ public class Rectangle extends Shape {
     public void setWidth(double width) {
         this.width = width;
     }
+    public double calculateArea() {
+        return length * width;
+    }
 }
